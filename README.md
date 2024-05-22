@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Tobias and I am a Software Engineer excited about Data Science as well as Functional Programming. I have a study background in Computer Science with a focus on Data Analytics and Machine Learning.  Alongside my studies at the Technical University of Munich and the DHBW Stuttgart, I had the opportunity to complete multiple Software Development and Data Science internships. For more information, feel free to check out my [LinkedIn Profile](https://www.linkedin.com/in/tobias-ritter/).
+My name is Tobias and I am a Data Scientist excited about Machine Learning, Functional Programming and Flutter. For more information, feel free to check out my [LinkedIn Profile](https://www.linkedin.com/in/tobias-ritter/).
 <!--
 **TobiasRitter/TobiasRitter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
